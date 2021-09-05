@@ -6,6 +6,6 @@ How to use:
 2. Add the max amount you are willing to pay for that product in the second line
 3. Save the Text file
 4. Run the script and let it do the dirty work
-5. You can schedule the script using Windows Task Scheduler or CronJob to periodically run the script. 
+5. You can schedule the script using Windows Task Scheduler or CronJob to run it periodically to minimize required user interaction
 
 
